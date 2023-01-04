@@ -1,2 +1,2 @@
-# Estudando Stled Components
+# Estudando Styled Components
 
